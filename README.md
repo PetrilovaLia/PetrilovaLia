@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Natália 👋
 
-<!--
-**PetrilovaLia/PetrilovaLia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer passionate about creating clean, functional, and visually appealing web applications. I enjoy the entire development process — from designing user interfaces to building robust backend systems.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**  
+HTML • CSS • JavaScript
+
+**Backend**  
+Node.js • Express
+
+**Database**  
+PostgreSQL
+
+**Tools & Software**  
+Git • GitHub • Blender • Adobe Creative Cloud • LaTeX
+
+## 💼 Featured Projects
+
+### [Library Management System](https://github.com/PetrilovaLia/Portfolio_/tree/main/Kni%C5%BEnica)
+A full-stack library management application with user authentication, book borrowing system, and CRUD operations.
+- **Tech:** Node.js, Express, PostgreSQL, HTML/CSS/JS
+- **Features:** User management, book inventory, borrowing history, search functionality
+
+### [MM Architects Portfolio](https://github.com/PetrilovaLia/MM-Architects)
+Responsive portfolio website for an architecture studio with modern, minimalist design.
+- **Tech:** HTML, CSS, JavaScript
+- **Features:** Responsive layout, project gallery, contact form
+
+## 📫 Contact
+
+**Email:** natalia.petrilova@gmail.com  
+**GitHub:** [@PetrilovaLia](https://github.com/PetrilovaLia)
+
+---
+
+*Currently seeking opportunities as a Junior Web Developer (Frontend/Backend/Full-Stack)*
